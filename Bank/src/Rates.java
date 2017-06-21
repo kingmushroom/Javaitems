@@ -7,5 +7,6 @@ POUND(888);
 	Rates(int Rate){
 		this.rate=Rate;
 		//Testing, adding this comment from virtual machine
+		mike="mike"
 	}
 }
