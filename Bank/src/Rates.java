@@ -8,5 +8,6 @@ POUND(888);
 		this.rate=Rate;
 		//Testing, adding this comment from virtual machine
 		mike="mike"
+		sameonlinuxmachine = 'testing'
 	}
 }
