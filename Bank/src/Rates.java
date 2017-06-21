@@ -9,6 +9,6 @@ POUND(888);
 		//Testing, adding this comment from virtual machine
 		mike="mike"
 		sameonlinuxmachine = 'testing'
-		This is an error/0
+		System.out.println(5/0);
 	}
 }
